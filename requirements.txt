@@ -1,0 +1,10 @@
+ipykernel
+matplotlib
+pandas
+geojson
+pyproj
+shapely
+xarray 
+h5netcdf
+h5py
+scikit-learn
