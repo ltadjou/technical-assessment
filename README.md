@@ -47,7 +47,7 @@ Figures generated for the analysis are in:
 
 ## Task 3 architecture
 
-The Task 3 architecture diagram is stored at the project root with the filename:
+The Task 3 architecture diagram:
 
 - `Task_3_Architecture.png`
 
