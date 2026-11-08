@@ -37,13 +37,23 @@ Input data is located in:
 
 - `data/`
 
+Important: before running any test or notebook cell, make sure the `data/` folder is present at the project root. This folder is not pushed to the repository.
+
 ## Figures
 
 Figures generated for the analysis are in:
 
 - `figures/`
 
-## Prompt history (examples)
+## Task 3 architecture
+
+The Task 3 architecture diagram is stored at the project root with the filename:
+
+- `Task_3_Architecture.png`
+
+![Task 3 Architecture](Task_3_Architecture.png)
+
+## Prompt history
 
 The table below summarizes prompts used during the work and how their outputs were applied in the notebook.
 
